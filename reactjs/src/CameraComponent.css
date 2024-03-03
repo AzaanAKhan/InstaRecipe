@@ -1,0 +1,17 @@
+.camera-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 82vh; /* Optionally, adjust the height as needed */
+}
+
+.test {
+  margin-top: 50px;
+  width: 100px /* Optionally, adjust the height as needed */
+}
+
+.camera-video {
+  width: 700px; /* Optionally, adjust the width as needed */
+  max-width: 800px; /* Optionally, set a maximum width */
+}
