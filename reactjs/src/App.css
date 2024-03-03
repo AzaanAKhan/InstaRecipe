@@ -1,3 +1,7 @@
+body {
+  background-color: #edf3ff; /* Replace "yourColor" with your desired background color */
+}
+
 .App {
   text-align: center;
 }
@@ -26,6 +30,15 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.App h1 {
+  position: sticky;
+  color: #282c34;
+  font-family: "Sometype Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 550; /* Adjust weight based on your preference */
+  font-style: normal;
 }
 
 @keyframes App-logo-spin {
